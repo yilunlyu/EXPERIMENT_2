@@ -1,0 +1,280 @@
+
+#navigation-bar{
+
+   padding-bottom: 9%;
+   list-style: none;
+   letter-spacing: 2px;
+   background-image: url(../image/8.jpg);
+   background-size:100%;
+   background-repeat: no-repeat;
+   width:100%;
+}
+
+.link {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-align: center;
+    padding:1% 10px;
+    border: 4px solid rgb(124, 124, 124);
+    border-radius: 100px;
+    background-color: white;
+    
+    
+}
+
+.title{
+    font-size:4rem;
+    color: rgb(255, 255, 255);
+    text-decoration-line: none;
+    padding:10% 42% 0%;
+
+}
+
+ul li{
+    list-style: none;
+   letter-spacing: 2px;
+   display: inline-block;
+   margin: 0 0 0 15%;
+
+}
+
+
+#ul2 {
+    list-style-type: none;
+    padding: 100px;
+    overflow: hidden;
+    
+  }
+
+    .container{
+        height: auto;
+        background:rgb(5, 5, 5);
+        width: 100%;
+        padding: 70PX 0 70PX 0;
+    }
+
+    
+    #container2{
+        list-style-type: none;
+        background-color: #333333;
+        width: 100%;
+        box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.616);
+        
+    }
+
+ .item{
+     color: white ;
+     padding: 10px;
+     margin:0 70PX 70PX 70px;
+     background:rgba(68, 68, 68, 0.466);
+     border-radius: 20mm;
+     border: 1mm solid rgb(230, 166, 166);
+ }
+
+ .item2{
+    color: white ;
+    padding: 0 10px 0;
+    margin:30px  10% 70px;
+    text-align: center;
+}
+
+
+ 
+ .small-img{
+    width: 30%;
+    border:solid rgba(255, 0, 0, 0.116);
+    position: relative;
+    left: 30PX;
+}
+
+figure{
+    position: relative;
+    margin: 0;
+}
+ figcaption{
+     position: absolute;
+     color: white ;
+     TOP: -4%;
+     left: 35%;
+     font-size: 1.5rem ;
+     width: 60%;
+ }
+
+
+ 
+.logo{
+      width: 25%;
+  }
+  
+
+.navtext {
+font-size: 4rem;
+color: white;
+}
+
+
+.navtext3 {
+    display: line block;
+    color: white;
+    padding: 3px 18px;
+    text-decoration: none;
+    border-right:2px solid #bbb;
+    font-size: 1.5vh;
+
+}
+
+.navtext4 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+   
+}
+
+
+#body{
+    background-color: transparent;
+    width: 80%;
+    margin: 0 10% 0;
+}
+
+.apply-readmore{
+    border:solid rgb(106, 148, 238);
+    background: rgba(218, 165, 117, 0.4);
+    width: 15%;
+    text-align-last: center;
+    margin: 10px;
+    padding:50px;
+  
+}
+
+
+A:hover{
+    text-decoration: underline;
+}
+
+#footer{
+ color: white;
+ text-align: center;
+ background: black;
+ padding: 5px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.fa-android {
+  background: #a4c639;
+  color: white;
+}
+
+.fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+
+.fa-vimeo {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+.fa-vine {
+  background: #00b489;
+  color: white;
+}
+
+.fa-foursquare {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-stumbleupon {
+  background: #eb4924;
+  color: white;
+}
+
+.fa-flickr {
+  background: #f40083;
+  color: white;
+}
+
+.fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+.fa-soundcloud {
+  background: #ff5500;
+  color: white;
+}
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
